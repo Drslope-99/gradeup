@@ -1,0 +1,34 @@
+components/
+└── ui/
+    ├── inputs/
+    │   ├── input.tsx
+    │   ├── otp-input.tsx
+    │   ├── textarea.tsx
+    │   └── select.tsx
+    │
+    ├── buttons/
+    │   ├── button.tsx
+    │   ├── icon-button.tsx
+    │   └── toggle.tsx
+    │
+    ├── feedback/
+    │   ├── toast.tsx
+    │   ├── alert.tsx
+    │   ├── skeleton.tsx
+    │   └── spinner.tsx
+    │
+    ├── overlay/
+    │   ├── dialog.tsx
+    │   ├── drawer.tsx
+    │   ├── popover.tsx
+    │   └── tooltip.tsx
+    │
+    ├── layout/
+    │   ├── card.tsx
+    │   ├── separator.tsx
+    │   └── tabs.tsx
+    │
+    └── typography/
+        ├── heading.tsx
+        ├── label.tsx
+        └── badge.tsx
